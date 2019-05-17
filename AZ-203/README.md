@@ -2,12 +2,12 @@
 
 Skills measured:
 
-- [1 - Develop Azure Infrastructure as a Service compute solutions (10-15%)](<https://github.com/melvinstubbe/certification-guides/blob/master/AZ-203/>)
-- [2 - Develop Azure Platform as a Service compute solutions (20-25%)](<https://github.com/melvinstubbe/certification-guides/blob/master/AZ-203/>)
-- [3 - Develop for Azure storage (15-20%)](<https://github.com/melvinstubbe/certification-guides/blob/master/AZ-203/>)
-- [4 - Implement Azure security (10-15%)](<https://github.com/melvinstubbe/certification-guides/blob/master/AZ-203/>)
-- [5 - Monitor, troubleshoot, and optimize solutions (10-15%)](<https://github.com/melvinstubbe/certification-guides/blob/master/AZ-203/>)
-- [6 - Connect to and consume Azure services and third-party services (20-25%)](<https://github.com/melvinstubbe/certification-guides/blob/master/AZ-203/>)
+- [1 - Develop Azure Infrastructure as a Service compute solutions (10-15%)](<1%20-%20Develop%20Azure%20Infrastructure%20as%20a%20Service%20compute%20solutions.md>)
+- [2 - Develop Azure Platform as a Service compute solutions (20-25%)](2%20-%20Develop%20Azure%20Platform%20as%20a%20Service%20compute%20solutions.md>)
+- [3 - Develop for Azure storage (15-20%)](<3%20-%20Develop%20for%20Azure%20storage.md>)
+- [4 - Implement Azure security (10-15%)](<4%20-%20Implement%20Azure%20security.md>)
+- [5 - Monitor, troubleshoot, and optimize solutions (10-15%)](<5%20-%20Monitor%2C%20troubleshoot%2C%20and%20optimize%20solutions.md>)
+- [6 - Connect to and consume Azure services and third-party services (20-25%)](<6%20-%20Connect%20to%20and%20consume%20Azure%20services%20and%20third-party%20services.md>)
 
 ## Official descpriptions
 
