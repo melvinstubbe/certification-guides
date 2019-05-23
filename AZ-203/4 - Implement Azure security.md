@@ -5,6 +5,7 @@
 - implement authentication by using certificates, forms-based authentication, or tokens
   - <https://docs.microsoft.com/en-us/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started>
   - <https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-certificate-credentials>
+  - <https://docs.microsoft.com/en-us/azure/app-service/app-service-web-configure-tls-mutual-auth>
 - implement multi-factor or Windows authentication by using Azure AD
   - <https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted>
   - <https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks>
@@ -17,8 +18,10 @@
 ## Implement access control
 
 - implement CBAC (Claims-Based Access Control) authorization
+  - <https://docs.microsoft.com/en-us/dotnet/framework/security/claims-based-authorization-using-wif#claims-based-authorization>
 - implement RBAC (Role-Based Access Control) authorization
   - <https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal>
+  - <https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-custom-role-cli>
 - create shared access signatures
   - <https://docs.microsoft.com/en-us/azure/storage/common/storage-dotnet-shared-access-signature-part-1>
 
@@ -30,3 +33,5 @@
   - <https://docs.microsoft.com/en-us/azure/key-vault/quick-create-net>
   - <https://docs.microsoft.com/en-us/azure/key-vault/key-vault-manage-with-cli2>
   - <https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview>
+  - <https://docs.microsoft.com/en-us/azure/key-vault/about-keys-secrets-and-certificates>
+  - <https://docs.microsoft.com/en-us/azure/key-vault/key-vault-secure-your-key-vault>

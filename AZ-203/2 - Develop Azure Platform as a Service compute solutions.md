@@ -17,6 +17,7 @@
   - <https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-offline-data-sync>
   - <https://azure.microsoft.com/en-gb/blog/offline-sync-for-mobile-services/>
 - implement a remote instrumentation strategy for mobile devices
+  - <https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs>
 
 ## Create Azure App Service API apps
 
@@ -25,11 +26,16 @@
   - <https://azure.microsoft.com/en-us/services/app-service/api/>
 - create documentation for the API by using open source and other tools
   - <https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?tabs=visual-studio&view=aspnetcore-2.2>
+  - <https://docs.microsoft.com/en-us/azure/api-management/api-management-modify-content-layout>
+  - <https://docs.microsoft.com/en-us/azure/api-management/api-management-customize-styles>
 
 ## Implement Azure functions
 
 - implement input and output bindings for a function
   - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference#bindings>
+  - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings>
+  - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-register>
+  - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-example>
 - implement function triggers by using data operations, timers, and webhooks
   - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function>
   - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function>
