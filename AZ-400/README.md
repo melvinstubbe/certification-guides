@@ -22,5 +22,17 @@ Description from: <https://www.microsoft.com/en-us/learning/exam-AZ-400.aspx>
 
 ## Other useful links
 
+- [Azure DevOps Documentation](<https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops>)
 - [Microsoft role-based certification roadmap](<https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI>) (pdf)
 - [PartsUnlimited example e-commerce website](<https://microsoft.github.io/PartsUnlimited/>)
+- [Azure DevOps Labs](<https://azuredevopslabs.com/>)
+
+## OpenEdx Courses
+
+- <https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.1+2019_T1/about>
+- <https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.2+2019_T1/about>
+- <https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.3+2019_T1/about>
+- <https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.4+2019_T1/about>
+- <https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.5+2019_T1/about>
+- <https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.6+2019_T1/about>
+- <https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.7+2019_T1/about>

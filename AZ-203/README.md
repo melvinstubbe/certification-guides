@@ -23,5 +23,6 @@ Description from: <https://www.microsoft.com/en-us/learning/exam-AZ-203.aspx>
 
 ## Other useful links
 
+- [Microsoft Learn](<https://docs.microsoft.com/en-us/learn/browse/?resource_type=learning%20path&roles=developer&products=azure>)
 - [Learning path for Azure Developer](<https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM>) (pdf)
 - <https://github.com/JazzyWagdaddy/AzureStudyGroups-AZ-203>
